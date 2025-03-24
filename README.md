@@ -1,5 +1,5 @@
 #Customer Churn Data Analysis using Power BI
-This repository contains the code and resources for a customer churn data analysis project conducted entirely using Power BI. The project aims to analyze customer churn data, derive insights, and provide recommendations for improving customer retention strategies.
+This repository contains the code and resources for a customer churn data analysis project conducted entirely using Power BI.  The project aims to analyze customer churn data, derive insights, and provide recommendations for improving customer retention strategies.
 
 #Overview
 Customer churn, or customer attrition, is a critical metric for businesses, especially those in subscription-based models or with recurring revenue streams. Analyzing churn data can provide valuable insights into customer behavior, enabling businesses to take proactive measures to reduce churn rates and improve customer satisfaction.
